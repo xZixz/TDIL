@@ -1,4 +1,4 @@
-*Over All Progress:* `74/329` - `22.49`%
+**Over All Progress:** `74/329` - `22.49`%
 
 
 > Jul 8 2017
