@@ -27,3 +27,4 @@ function! s:VSetSearch()
 endfunction
 
 nnoremap <f5> :!ctags -R<CR>
+autocmd BufWritePost * call system("ctags -R")
