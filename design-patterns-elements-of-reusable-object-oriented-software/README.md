@@ -1,5 +1,6 @@
 **Over All Progress:** `63/431` - `14.62`%
-* 5 pages per day at minimum *
+
+*5 pages per day at minimum*
 
 > Before Aug 23 2017
   * Page `0` > `32`: +`32` - `7.42`%
@@ -13,3 +14,5 @@
   * Page `53` > `55`: +`3` - `0.7`%
 > Oct 3 2017
   * Page `56` >  `63`: + `8` - `1.86` %
+> Oct 5 2017
+  * Page `64` >  `?`: + `?` - `?` %
