@@ -1,4 +1,4 @@
-**Over All Progress:** `118/134` - `88.06`%
+**Over All Progress:** `134/134` - `100.0`% - **Finished**
 
 *5 pages per day at minimum*
 
@@ -16,3 +16,5 @@
   * Page `101` > `113`: +`13` - `9.70`%
 > Oct 13 2017
   * Page `114` > `118`: +`5` - `3.73`%
+> Oct 25 2017
+  * Page `119` > `134`: +`16` - `11.94`%
