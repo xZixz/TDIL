@@ -8,3 +8,4 @@
 * [Tmux 2 - Productive Mouse-Free Development](https://github.com/xZixz/TDIL/tree/master/tmux-productive-mouse-free-development)
 * [Advanced Bash-Scripting Guide](https://github.com/xZixz/TDIL/tree/master/advanced-bash-scripting-guide)
 * [Randal K. Michael-Mastering Unix Shell Scripting_ Bash, Bourne, and Korn Shell Scripting for Programmers, System Administrators, and UNIX Gurus-Wiley (2008)](https://github.com/xZixz/TDIL/tree/master/mastering_unix_shell)
+* [Mastering Regular Expressions](https://github.com/xZixz/TDIL/tree/master/mastering_regular_expression)
